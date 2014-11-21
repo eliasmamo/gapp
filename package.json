@@ -1,0 +1,27 @@
+{
+  "name": "gapp",
+  "version": "1.0.0",
+  "description": "multipurpose personal assistant app",
+  "main": "app.coffee",
+  "scripts": {
+    "start": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eliasmamo/gapp.git"
+  },
+  "author": "Ilia Glushkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eliasmamo/gapp/issues"
+  },
+  "homepage": "https://github.com/eliasmamo/gapp",
+  "dependencies": {
+    "coffee-script": "^1.8.0",
+    "express": "^4.10.2",
+    "gulp": "^3.8.10",
+    "gulp-jade": "^0.9.0",
+    "gulp-nodemon": "^1.0.4",
+    "jade": "^1.7.0"
+  }
+}
